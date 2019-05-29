@@ -1,0 +1,6 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPotterSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 1 copy of any of the five titles should cost 8 euros[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 2 copies of different books will get a 5% discount[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- 2 copies of same books will cost 16 euros *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  15.2 did not equal 16 (PotterSpec.scala:17)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 3 copies of different books will you get a 10% discount[0m[0m
