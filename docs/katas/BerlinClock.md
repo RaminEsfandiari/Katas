@@ -1,3 +1,6 @@
+# Task
+Create a representation of the Berlin Clock for a given time (hh::mm:ss).
+
 # Berlin Clock #
 ![Clock image](http://agilekatas.co.uk/static/img/katas/kata_berlinclock.png)
 
