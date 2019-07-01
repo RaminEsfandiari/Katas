@@ -1,3 +1,3 @@
 # Katas
 
- A kata playgorund
+ A kata playgorund for your enjoyment ;)
